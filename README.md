@@ -44,3 +44,15 @@
 
         git push origin master
         git push <nome> <branch>
+
+    -> Para saber a quantidade de branchs:
+
+        git branch
+
+    -> Para criar outra branch de desenvolvimento:
+
+        git branch <nome_branch>
+
+    -> Para acessar a outra branch:
+
+        git chechout <nome_branch>
