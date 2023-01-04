@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+=======
+# Alura-git
+Lista de cursos para controlar o git
+
+>>>>>>> aa671abc15f4a101e6023fa06c3d53f19c00bec8
 # Comandos Git
     -> Fazendo login no git:
         
@@ -30,4 +36,8 @@
         .gitignore/
             arquivos.
     
+<<<<<<< HEAD
     git add .gitignore
+=======
+    git add .gitignore
+>>>>>>> aa671abc15f4a101e6023fa06c3d53f19c00bec8
