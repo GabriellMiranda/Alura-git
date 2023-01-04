@@ -1,10 +1,9 @@
-<<<<<<< HEAD
 =======
 # Alura-git
-Lista de cursos para controlar o git
 
->>>>>>> aa671abc15f4a101e6023fa06c3d53f19c00bec8
-# Comandos Git
+## Lista de cursos para controlar o git
+
+## Comandos Git
     -> Fazendo login no git:
         
         git config --local user.name "name"
@@ -35,9 +34,12 @@ Lista de cursos para controlar o git
 
         .gitignore/
             arquivos.
-    
-<<<<<<< HEAD
-    git add .gitignore
-=======
-    git add .gitignore
->>>>>>> aa671abc15f4a101e6023fa06c3d53f19c00bec8
+
+    -> Para atualizar as informações do seu repositório local:
+
+        git pull origin master
+        git pull <nome> <branch>
+
+
+
+       
