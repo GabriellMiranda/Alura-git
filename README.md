@@ -35,11 +35,12 @@
         .gitignore/
             arquivos.
 
-    -> Para atualizar as informações do seu repositório local:
+    -> Para atualizar as informações do seu repositório local: puxar os dados do git
 
         git pull origin master
         git pull <nome> <branch>
 
+    -> Para empurrar as atulizações para o git:
 
-
-       
+        git push origin master
+        git push <nome> <branch>
