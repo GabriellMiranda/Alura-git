@@ -58,5 +58,8 @@
         git checkout <nome_branch>
 
     -> adcionando a brach developer
-    a
     
+
+    -> Mergeando duas branches
+
+        git merge <outra-branche>
