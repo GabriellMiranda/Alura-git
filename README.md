@@ -63,3 +63,7 @@
     -> Mergeando duas branches
 
         git merge <outra-branche>
+
+    -> Desfazer uma alteração
+
+        git checkout -- <nome_arquivo>
