@@ -55,4 +55,6 @@
 
     -> Para acessar a outra branch:
 
-        git chechout <nome_branch>
+        git checkout <nome_branch>
+
+    -> adcionando a brach developer
