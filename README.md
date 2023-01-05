@@ -57,9 +57,6 @@
 
         git checkout <nome_branch>
 
-    -> adcionando a brach developer
-    
-
     -> Mergeando duas branches
 
         git merge <outra-branche>
@@ -67,3 +64,12 @@
     -> Desfazer uma alteração
 
         git checkout -- <nome_arquivo>
+
+    -> commites e seus identificadores
+
+        git log --oneline
+
+    -> Navegando para outro commit
+
+        git checkout <identificador_commit>
+
